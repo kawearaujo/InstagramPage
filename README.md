@@ -1,8 +1,8 @@
 # InstagramPage
 
-## Página de Login do Instagram com FlexBox contendo:
+## Página de Login do Instagram contendo:
 
-### 1# HTML5;
-### 2# CSS3;
-### 3# Javascript;
-### 4# Flexbox
+#### 1# HTML5;
+#### 2# CSS3;
+#### 3# Javascript;
+#### 4# Flexbox
