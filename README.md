@@ -7,4 +7,4 @@
 
 ###### #Bootcamp WebDev
 
-Deploy: instagram-page-omega.vercel.app/
+Deploy: www.instagram-page-omega.vercel.app/
